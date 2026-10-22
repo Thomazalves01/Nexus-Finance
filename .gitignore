@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+nexus.db
+*.sqlite
+*.sqlite3
+.DS_Store
